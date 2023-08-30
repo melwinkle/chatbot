@@ -1,0 +1,25 @@
+.link-list {
+    padding: 0;
+    
+  }
+  
+  .link-list-item {
+    text-align: left;
+    font-size: 0.9rem;
+  }
+  
+  .link-list-item-url {
+    /* padding: 0.5rem;
+    border-radius: 25px;
+    background: transparent;
+    border: 1px solid green;
+    margin: 3px;
+    width: auto; */
+    text-decoration: none;
+    margin: 6px;
+    display: block;
+    background-color: transparent;
+    border: 1px solid #AA3C3F;
+    padding: 8px;
+    border-radius: 5px;
+  }
